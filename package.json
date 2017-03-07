@@ -1,0 +1,26 @@
+{
+  "name": "d18-milestone-challenge-modern-javascript-caseydailey",
+  "version": "1.0.0",
+  "description": "## Setup",
+  "main": "dragons.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/caseydailey/d18-milestone-challenge-modern-javascript-caseydailey.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/caseydailey/d18-milestone-challenge-modern-javascript-caseydailey/issues"
+  },
+  "homepage": "https://github.com/caseydailey/d18-milestone-challenge-modern-javascript-caseydailey#readme",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-jshint": "^1.1.0",
+    "grunt-contrib-watch": "^1.0.0",
+    "jshint": "^2.9.4",
+    "jshint-stylish": "^2.2.1"
+  }
+}
